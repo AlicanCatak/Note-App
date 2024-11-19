@@ -1,20 +1,14 @@
-# Not App
-[Canlı Link](https://note-app-drab-ten.vercel.app/)
+#Note App
+[Link](https://note-app-drab-ten.vercel.app/)
 
-Bu proje, kullanıcıların Bill Gates'in servetini harcamayı simüle edebilecekleri React tabanlı bir web uygulamasıdır. Amaç, kullanıcılara çeşitli ürünler üzerinde büyük miktarda para harcamayı deneyimletmektir.
+This project is a React-based web application that simulates spending Bill Gates' fortune. The goal is to give users an entertaining experience of spending large sums of money on various products.
 
-# Özellikler
-
-- ✅ Kullanıcılar, başlangıçta büyük bir miktar parayla başlar ve çeşitli ürünler satın alabilir.
-- ✅ Ürünler, resim, başlık ve fiyat bilgisi içeren kartlar halinde gösterilir.
-- ✅ Bazı ürünler yalnızca bir kez satın alınabilir ve satın alındıktan sonra Satın Al butonu devre dışı kalır.
-- ✅ Satın alınan ürünler geri satılarak paranın bir kısmı geri kazanılabilir.
-
-# Kullanım
-- 🛠️ React - Kullanıcı arayüzü oluşturma.
-
-- 🛠️ CSS - Bileşenlerin stillendirilmesi.
-- 🛠️ HTML - Sayfa yapısı.
-
-
-
+#Features
+- ✅ Start with a Fortune: Users begin with a large amount of money and can purchase various products.
+- ✅ Product Cards: Products are displayed as cards containing images, titles, and prices.
+- ✅ Single-Purchase Products: Some products can only be purchased once, and the "Buy" button is disabled after purchase.
+- ✅ Sell Products: Purchased products can be resold to regain part of the spent money.
+#Technologies Used
+- 🛠️ React: For building the user interface.
+- 🛠️ CSS: For styling components.
+- 🛠️ HTML: For structuring the pages.
